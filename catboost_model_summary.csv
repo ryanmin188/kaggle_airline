@@ -1,0 +1,2 @@
+model,iterations,learning_rate,depth,l2_leaf_reg,5fold_mean_auc,5fold_std,oof_auc,lightgbm_benchmark,difference_vs_lightgbm,n_features,n_categorical_features
+CatBoost,1200,0.03,8,5,0.958642218748437,0.0006168952542600467,0.9586335076948338,0.959015,-0.0003814923051661534,23,6
